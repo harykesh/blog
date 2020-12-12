@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Harykesh Rajkumar`,
+    title: `Harykesh`,
     author: {
       name: `Harykesh Rajkumar`,
       summary: ` | Content curator at `,
